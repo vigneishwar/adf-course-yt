@@ -1,5 +1,5 @@
 {
-	"name": "sinkcsvgit",
+	"name": "metadatadestination",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "adf_course_ls",
@@ -10,7 +10,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "Fact_Sales_2.csv",
 				"folderPath": "csvfiles",
 				"fileSystem": "destination"
 			},
