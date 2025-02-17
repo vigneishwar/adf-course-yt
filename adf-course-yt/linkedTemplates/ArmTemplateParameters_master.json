@@ -11,6 +11,9 @@
 		"adf_course_ls_properties_typeProperties_url": {
 			"value": "https://adfcoursestorageaccount.dfs.core.windows.net/"
 		},
+		"copyfromgit_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
