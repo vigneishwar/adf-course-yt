@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-yt",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea7c697b-4fbb-46dc-81a1-3a396b0148a4",
+		"tenantId": "819a1346-5182-4a1b-8486-6945f7747e8f"
+	}
+}
